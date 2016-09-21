@@ -1,0 +1,10 @@
+D:\Etec\3º Semestre\C#\conexaoBd\conexaoBd\bin\Debug\conexaoBd.exe.config
+D:\Etec\3º Semestre\C#\conexaoBd\conexaoBd\bin\Debug\conexaoBd.exe
+D:\Etec\3º Semestre\C#\conexaoBd\conexaoBd\bin\Debug\conexaoBd.pdb
+D:\Etec\3º Semestre\C#\conexaoBd\conexaoBd\obj\Debug\conexaoBd.csprojResolveAssemblyReference.cache
+D:\Etec\3º Semestre\C#\conexaoBd\conexaoBd\obj\Debug\conexaoBd.Properties.Resources.resources
+D:\Etec\3º Semestre\C#\conexaoBd\conexaoBd\obj\Debug\conexaoBd.csproj.GenerateResource.Cache
+D:\Etec\3º Semestre\C#\conexaoBd\conexaoBd\obj\Debug\conexaoBd.exe
+D:\Etec\3º Semestre\C#\conexaoBd\conexaoBd\obj\Debug\conexaoBd.pdb
+D:\Etec\3º Semestre\C#\conexaoBd\conexaoBd\bin\Debug\MySql.Data.dll
+D:\Etec\3º Semestre\C#\conexaoBd\conexaoBd\obj\Debug\Views.PrincipalView.resources
